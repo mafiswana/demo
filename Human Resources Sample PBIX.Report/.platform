@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Human Resources Sample PBIX"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "27599ba6-7334-a2f5-4dfd-0cc3669c0801"
+  }
+}

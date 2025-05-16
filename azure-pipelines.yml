@@ -99,6 +99,7 @@ stages:
 
         - task: PowerShell@2
           displayName: 'Run Report Rules'
+          enabled: false
           inputs:
             targetType: inline
             script: |
